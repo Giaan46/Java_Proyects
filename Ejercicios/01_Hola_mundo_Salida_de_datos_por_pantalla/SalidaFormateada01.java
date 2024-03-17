@@ -1,7 +1,7 @@
 /**
  * Salida formateada
  *
- * @author Luis J. Sánchez
+ * @author Gianluca Maida
  */
 public class SalidaFormateada01 {
   public static void main(String[] args) {
