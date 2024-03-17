@@ -1,7 +1,7 @@
 /**
  * Muestra caracteres especiales
  *
- * @author Luis J. Sánchez
+ * @author Gianluca Maida
  */
 public class CaracteresEspeciales02 {
   public static void main(String[] args) {
