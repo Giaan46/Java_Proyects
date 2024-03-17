@@ -1,7 +1,7 @@
 /**
  * Muestra por pantalla la frase "¡Hola mundo!"
  *
- * @author Luis J. Sánchez
+ * @author Gianluca Maida
  */
 public class HolaMundo { // Clase principal
   public static void main(String[] args) {
