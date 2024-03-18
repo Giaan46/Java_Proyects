@@ -1,7 +1,7 @@
 /**
  * Conversión de tipos
  *
- * @author Luis J. Sánchez
+ * @author Gianluca Maida
  */
 public class ConversionDeTipos {
   public static void main(String[] args) {
